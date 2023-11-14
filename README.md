@@ -3,6 +3,8 @@
 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）
 </div>
 
+<h1 align="center"> 源自: https://github.com/hepengwei/visualization-collection-vue 欢迎去原作者体验最新的示例</h1>
+
 ## 在线体验(PC端)
 #### 体验地址：[http://hepengwei.cn](http://hepengwei.cn)
 
