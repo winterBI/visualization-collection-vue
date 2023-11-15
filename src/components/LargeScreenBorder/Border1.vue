@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, Ref, watch, onMounted } from "vue";
+import { ref, Ref, computed, watch, onMounted } from "vue";
 import { useI18n } from "vue-i18n";
 import { getTextWidth } from "utils/util";
 import { useGlobalContext } from "hooks/useGlobalContext";
